@@ -1,4 +1,4 @@
-### 👨‍💻 Cybersecurity Engineering Student & Software Developer
+# Cybersecurity Engineering Student & Software Developer
 
 I'm passionate about exploring **network security, ethical hacking, and software development**. I love turning complex problems into elegant solutions, whether in code or in logic puzzles.  
 
