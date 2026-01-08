@@ -2,9 +2,9 @@
 
 I'm passionate about exploring **network security, ethical hacking, and software development**. I love turning complex problems into elegant solutions, whether in code or in logic puzzles.  
 
-- 🔭 Currently working on **Personal Projects & Security Labs**  
-- 🌱 Learning **Advanced Network Security & Pentesting**  
-- ⚡ Fun fact: I enjoy **gaming and solving challenging logic puzzles**  
+- Currently focused on **developing personal projects and conducting hands-on security labs**  
+- Actively enhancing skills in **advanced network security and penetration testing**  
+- Outside of work, I enjoy **strategic gaming and tackling complex logic puzzles** 
 
 ---
 
