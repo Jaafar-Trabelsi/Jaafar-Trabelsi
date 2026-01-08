@@ -16,14 +16,6 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white) ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white) |
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaafar-Trabelsi&show_icons=true&theme=tokyonight" alt="Jaafar's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaafar-Trabelsi&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
 
 ---
 
