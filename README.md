@@ -20,15 +20,6 @@ I'm passionate about exploring **network security, ethical hacking, and software
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaafar-Trabelsi&show_icons=true&theme=tokyonight&count_private=true" alt="Jaafar's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaafar-Trabelsi&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
