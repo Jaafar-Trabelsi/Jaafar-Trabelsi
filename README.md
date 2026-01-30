@@ -1,6 +1,6 @@
 # 💻 Cybersecurity Engineering Student & Software Developer
 
-I'm passionate about exploring **network security, ethical hacking, and software development**. I love turning complex problems into clear and effective solutions.  
+I'm passionate about exploring **network security, ethical hacking, and software development**. I love turning **complex problems** into **clear** and **effective solutions.**  
 
 - Currently focused on **developing personal projects and conducting hands-on security labs**  
 - Actively enhancing skills in **advanced network security and penetration testing**  
