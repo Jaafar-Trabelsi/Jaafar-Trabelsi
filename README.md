@@ -4,7 +4,7 @@ I'm passionate about exploring **network security, ethical hacking, and software
 
 - Currently focused on **developing personal projects and conducting hands-on security labs**  
 - Actively enhancing skills in **advanced network security and penetration testing**  
-- Outside of work, I enjoy **strategic gaming and tackling complex logic puzzles** 
+- I enjoy **strategic** and **role-playing games** that emphasize **problem-solving, planning, and persistence.** 
 - **Portfolio Website:** [jaafar-trabelsi.netlify.app](https://jaafar-trabelsi.netlify.app/)
 
 ![My Setup](./Screenshot_2026-01-30_17-26-13.png "Development & Security Environment")
