@@ -7,8 +7,7 @@ I'm passionate about exploring **network security, ethical hacking, and software
 - Outside of work, I enjoy **strategic gaming and tackling complex logic puzzles** 
 - **Portfolio Website:** [jaafar-trabelsi.netlify.app](https://jaafar-trabelsi.netlify.app/)
 
-  ![My Setup](./Screenshot_2026-01-08_02-14-00.png "Development & Security Environment")
-
+![My Setup](./Screenshot_2026-01-30_17-26-13.png "Development & Security Environment")
 ---
 
 ### 🛠 Tech Stack
