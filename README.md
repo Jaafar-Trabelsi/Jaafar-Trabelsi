@@ -25,9 +25,9 @@ I'm passionate about exploring **network security, ethical hacking, and software
 
 ### 🖥️ Development Environment
 
-**Daily Driver:** ![CachyOS](https://img.shields.io/badge/CachyOS-6F42C1?style=flat-square\&logo=archlinux\&logoColor=white)
-**Security Testing:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kali-linux\&logoColor=white) VM via VirtualBox
-**Virtualization:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square\&logo=virtualbox\&logoColor=white) for isolated security labs and testing environments
+**Daily Driver:** ![CachyOS](https://img.shields.io/badge/CachyOS-6F42C1?style=flat-square\&logo=archlinux\&logoColor=white)<br>
+**Security Testing:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kali-linux\&logoColor=white) VM via VirtualBox<br>
+**Virtualization:** ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square\&logo=virtualbox\&logoColor=white) for isolated security labs and testing environments<br>
 *Also experienced with other virtualization solutions for diverse environments*
 
 ---
