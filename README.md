@@ -34,9 +34,8 @@ I'm passionate about exploring **network security, ethical hacking, and software
 
 ### 📬 Connect with Me
 
-[<img src="https://skillicons.dev/icons?i=netlify" height="40" />](https://jaafar-trabelsi.netlify.app/)
+[<img src="https://skillicons.dev/icons?i=netlify" height="40" />](https://jaafar-trabelsi-portfolio.netlify.app/)
 [<img src="https://skillicons.dev/icons?i=linkedin" height="40" />](https://www.linkedin.com/in/jaafar-trabelsi-557761217/)
-[<img src="https://skillicons.dev/icons?i=instagram" height="40" />](https://www.instagram.com/jaafar.tech/)
 [<img src="https://skillicons.dev/icons?i=github" height="40" />](https://github.com/Jaafar-Trabelsi)
 
 ---
